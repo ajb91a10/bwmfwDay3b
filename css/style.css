@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|PT+Sans');
+
+.jumbotron {
+  background-color: #grey;
+}
+.btn {
+  margin-left: 10px;
+}
+.img {
+  height: 70px;
+  width:  70px;
+}
+h1 {
+  font-family: 'PT+Sans', cursive;
+}
